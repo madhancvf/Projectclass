@@ -7,5 +7,7 @@ public class Sample {
 private void test() {
 	System.out.println("Test1");
 	System.out.println("test 2");
+	System.out.println("yguv");
+	System.out.println("hvjhvj");
 }
 }
