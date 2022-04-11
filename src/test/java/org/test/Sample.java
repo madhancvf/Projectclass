@@ -9,5 +9,7 @@ private void test() {
 	System.out.println("test 2");
 	System.out.println("yguv");
 	System.out.println("hvjhvj");
+	
+	System.out.println("Test 6");
 }
 }
